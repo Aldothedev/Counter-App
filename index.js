@@ -16,6 +16,5 @@ function save() {
 
 function reset() {
     saveEl.textContent = "Previous entries: "
-    console.log("clc")
 }
 
